@@ -1,5 +1,5 @@
-import './assets/main.css'
-// import '@/styles/style.scss'; // scss入口檔案
+// import './assets/main.css'
+import '@/styles/style.scss'; // scss入口檔案
 import 'element-plus/dist/index.css';
 import 'virtual:svg-icons-register';
 import { createApp } from 'vue';
